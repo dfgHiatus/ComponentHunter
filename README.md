@@ -1,5 +1,7 @@
 # ComponentHunter
 
+![ComponentHunter](https://user-images.githubusercontent.com/51272212/202865761-7e1ef63b-1b32-45f8-abff-d6cd03395740.PNG)
+
 A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that searches for components in a given hierarchy.
 
 ## Installation
